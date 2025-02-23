@@ -4,6 +4,7 @@
 # Suspension
 ## Front Suspension
 **Type**: Closed cartridge (SSS design).
+
 **Diameter**: 48mm.
 
 ## Rear Suspension:
