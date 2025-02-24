@@ -7,7 +7,13 @@
 
 **Diameter**: 48mm.
 
-Torque
+**Torque**
+| Part                                 | Torque |      |
+| ------------------------------------ | ------ | ---- |
+| pressure relief plug and locking nut | 29 Nm  |      |
+|                                      |        |      |
+|                                      |        |      |
+
 
 Oil
 - 210ml in the inner chamber
