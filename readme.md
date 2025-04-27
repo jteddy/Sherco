@@ -1,6 +1,7 @@
 # Sherco 300 SE Factory - 2022
 # Links
-[Sherco Parts Online](https://shop.sherco.com.au/enduro-300-se-factory-2022)
+- [Sherco Parts Online](https://shop.sherco.com.au/enduro-300-se-factory-2022)
+- [Sherco Manuals](https://shercousa.com/docs/)
 
 # Maintenance
 ## Oil
